@@ -11,15 +11,17 @@ export default function Home() {
       <TopBar />
       {/* <div style={{ height: '3000px' }}></div> */}
 
-      <Container className='pb-14'>
-        {/* фильтрация */}
+      <Container className='mt-10 pb-14'>
         <div className='flex gap-[60px]'>
-          <Filters />
-        </div>
+          {/* фильтрация */}
+          <div className='w-[250px]'>
+            <Filters />
+          </div>
 
-        {/* список товаров */}
-        <div className='flex-1'>
-          <div className='flex flex-col gap-16'>Список товаров</div>
+          {/* список товаров */}
+          <div className='flex-1'>
+            <div className='flex flex-col gap-16'>Список товаров</div>
+          </div>
         </div>
       </Container>
     </>
