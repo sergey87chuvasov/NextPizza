@@ -26,7 +26,7 @@ export default function Home() {
                 title='Пиццы'
                 items={[
                   {
-                    id: 1,
+                    id: 7,
                     name: 'Чизбургер пицца',
                     imageUrl:
                       'https://media.dodostatic.net/image/r:292x292/11EE7D5F2F13041E9101158D09CEBAE0.avif',
@@ -34,7 +34,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 8,
                     name: 'Чизбургер пицца',
                     imageUrl:
                       'https://media.dodostatic.net/image/r:292x292/11EE7D5F2F13041E9101158D09CEBAE0.avif',
@@ -42,7 +42,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 9,
                     name: 'Чизбургер пицца',
                     imageUrl:
                       'https://media.dodostatic.net/image/r:292x292/11EE7D5F2F13041E9101158D09CEBAE0.avif',
@@ -50,7 +50,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 10,
                     name: 'Чизбургер пицца',
                     imageUrl:
                       'https://media.dodostatic.net/image/r:292x292/11EE7D5F2F13041E9101158D09CEBAE0.avif',
@@ -58,7 +58,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 11,
                     name: 'Чизбургер пицца',
                     imageUrl:
                       'https://media.dodostatic.net/image/r:292x292/11EE7D5F2F13041E9101158D09CEBAE0.avif',
@@ -66,7 +66,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 12,
                     name: 'Чизбургер пицца',
                     imageUrl:
                       'https://media.dodostatic.net/image/r:292x292/11EE7D5F2F13041E9101158D09CEBAE0.avif',
@@ -77,7 +77,7 @@ export default function Home() {
                 categoryId={1}
               />
               <ProductsGroupList
-                title='Завтрак'
+                title='Комбо'
                 items={[
                   {
                     id: 1,
@@ -88,7 +88,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 2,
                     name: 'Салат Цезарь',
                     imageUrl:
                       'https://media.dodostatic.net/image/r:292x292/11EF8F87DE83DB4087C0DCB31F44325A.avif',
@@ -96,7 +96,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 3,
                     name: 'Салат Цезарь',
                     imageUrl:
                       'https://media.dodostatic.net/image/r:292x292/11EF8F87DE83DB4087C0DCB31F44325A.avif',
@@ -104,7 +104,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 4,
                     name: 'Салат Цезарь',
                     imageUrl:
                       'https://media.dodostatic.net/image/r:292x292/11EF8F87DE83DB4087C0DCB31F44325A.avif',
@@ -112,7 +112,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 5,
                     name: 'Салат Цезарь',
                     imageUrl:
                       'https://media.dodostatic.net/image/r:292x292/11EF8F87DE83DB4087C0DCB31F44325A.avif',
@@ -120,7 +120,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 6,
                     name: 'Салат Цезарь',
                     imageUrl:
                       'https://media.dodostatic.net/image/r:292x292/11EF8F87DE83DB4087C0DCB31F44325A.avif',
