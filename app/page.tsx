@@ -1,5 +1,6 @@
 import { Container, SortPopup, Title } from '@/components/shared';
 import { Filters } from '@/components/shared/filters';
+import { Pagination } from '@/components/shared/pagination';
 import { ProductsGroupList } from '@/components/shared/products-group-list';
 import { TopBar } from '@/components/shared/top-bar';
 
@@ -130,6 +131,11 @@ export default function Home() {
                 ]}
                 categoryId={2}
               />
+            </div>
+
+            <div className='flex items-center gap-6 mt-12'>
+              <Pagination pageCount={5} />
+              <span className='text-sm text-gray-400'>5 из 65</span>
             </div>
           </div>
         </div>
